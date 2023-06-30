@@ -1,7 +1,8 @@
 # Quadtree Versus SpatialHash
 
 This is a utility program to test whether Spatial Hashing or Quad Trees have a faster overall performance and helping a programmer make a choice between the two algorithms. This includes a result visualizer, timing logger, and other similar tools.
-<img src="https://i.imgur.com/OCMm7ZI.png" />
+![WhatsApp Image 2023-06-28 at 10 15 57 PM (1)](https://github.com/Tejasri007/QUAD-TREES-VERSUS-SPATIAL-HASHING/assets/130212732/d186ee52-b06e-40ca-b766-d01e0543880b)
+
 
 ### How To Use
 
