@@ -21,9 +21,8 @@ There are three key components to getting this program to run and getting to ben
    - This is not required to properly test data but provides insight into how the algorithm works
    - Once you select the test you can view any result of any test.
 
-### My own Findings
-
-If you are interested in seeing what this program yielded and how it functioned please read my paper [here](https://brandonbarker.me/downloads/quadtree_spatialhash.pdf). The paper goes over the time complexities of both algorithms, limitations, advantages, and situations when to use each algorithm. If you plan to use the information from my paper I would love to hear from you!  
+### Reference
+[here](https://brandonbarker.me/downloads/quadtree_spatialhash.pdf). The paper goes over the time complexities of both algorithms, limitations, advantages, and situations when to use each algorithm.
 
 ### Libraries and Tools Used
 
